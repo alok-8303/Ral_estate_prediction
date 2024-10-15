@@ -24,5 +24,5 @@ The model was able to make some very good predictions. The model accuracy was so
 # How to run 
 To run this web app just open a collab note book and run these command-
 
-!pip install gradio 
+!pip install gradio <br> 
 and copy rest of the code from app.py file also upload the model.sav file to notebook and replace its path in the code.
